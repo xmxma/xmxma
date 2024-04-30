@@ -1,16 +1,14 @@
-### Hi there 👋
+# **Hola, Soy Marlet Contreras!**
 
-<!--
-**xmxma/xmxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+En mi tiempo libre, disfruto de leer. Siempre estoy buscando aprender nuevas cosas y mejorar mis habilidades en desarrollo web.
 
-Here are some ideas to get you started:
+## Perfil
+- Tengo 18 años de edad.
+- Soy Tecnico en Contabilidad.
+- Soy estudiante en la Universidad Tecnologica de Ciudad Acuña.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- **Email:** marlet.contrs@gmail.com
+- **Linkedin:** [Marlet Contreras Ballin](www.linkedin.com/in/marlet-contreras-ballin-2126142b3)
+- **Git Hub:** [xmxma](https://github.com/xmxma)
